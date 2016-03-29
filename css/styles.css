@@ -84,6 +84,7 @@ a:hover {
 }
 
 
+
 /* page structure */
 #w {
    
@@ -193,6 +194,11 @@ a:hover {
   margin: 20px auto; 
 
 }
+
+.fa-github {
+ color: white; 
+}
+
 .fa-heart {
   color: red;
 }
