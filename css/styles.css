@@ -82,9 +82,6 @@ a {
 a:hover {
   color: #6e91b9;
 }
-
-
-
 /* page structure */
 #w {
    
@@ -100,20 +97,16 @@ a:hover {
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
-
 #ghapidata {
   display: block;
   padding: 25px 0;
 }
-
 #loader {
   display: block;
   width: 200px;
   height: 200px;
   margin: 0 auto;
 }
-
-
 /* page content styles */
 .smallname {
   font-size: 0.75em;
