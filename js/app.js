@@ -11,7 +11,6 @@ $(function(){
       if(json.message == "Not Found" || username == '') {
         $('#ghapidata').html("<h2>No User Info Found</h2>");
       }
-      
       else {
         // else we have a user and we display their info
         var fullname   = json.name;
