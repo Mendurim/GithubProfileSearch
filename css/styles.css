@@ -130,7 +130,6 @@ a:hover {
   border: 1px solid #ccc;
   padding: 3px;
 }
-
 .repolist {
   display: block;
   clear: both;
@@ -182,7 +181,6 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   font-size: 0.9em;
 }
-
 /* input field */
 #ghusername {
   display: block;
@@ -192,9 +190,7 @@ a:hover {
   width: 50%;
   margin-bottom: 15px;
   margin: 20px auto; 
-
 }
-
 .fa-github {
  color: white; 
 }
